@@ -9,7 +9,7 @@
     <script scriptType="python"><![CDATA[# Documentation, full feature list and license can be found here:
 # https://github.com/CrisDoesCG/PBR-Express
 
-from toolbar import pbr_express
+from scripts.python import pbr_express
 
 # force reload pbr_express module import for
 # debugging purposes since imports get cached.
